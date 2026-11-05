@@ -1,2 +1,0 @@
-# kerafirm
-Static site
